@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" 
   src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU5MjE4NDIsIm5iZiI6MTcwNTkyMTU0MiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NTMtODVjYjk1MjEtOTdjMC00YTY1LTkzNTgtN2RiODA5OWZhYzdmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTIyVDExMDU0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0OGI0OWE5YTc0NjJiZjZhYjg2NWM1OGMxODQ4NTMwY2QxNmNiMTJlNzJiYjE3ODVmNDcwYWUwMjYyMjVhMWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.x7ZqgYGDHp_aF-wbVM9-3-xOVyuPqA19oxK-sqXEqP4">
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working at **Intertech**
 
-- 🌱 I’m currently learning **Machine Learning and Data Science bootcamp @Miuul**
+- 🌱 I’m currently learning **Machine Learning, Data Science and Data Analysis**
 
 - 💬 Ask me about **PowerBI, SQL , Python**
 
