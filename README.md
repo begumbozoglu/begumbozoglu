@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Begum Bozoglu</h1>
 <h3 align="center">A passionate data scientist and business intelligence developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
+<img align="right" alt="Coding" width="400" 
+  src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU5MjE4NDIsIm5iZiI6MTcwNTkyMTU0MiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NTMtODVjYjk1MjEtOTdjMC00YTY1LTkzNTgtN2RiODA5OWZhYzdmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTIyVDExMDU0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0OGI0OWE5YTc0NjJiZjZhYjg2NWM1OGMxODQ4NTMwY2QxNmNiMTJlNzJiYjE3ODVmNDcwYWUwMjYyMjVhMWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.x7ZqgYGDHp_aF-wbVM9-3-xOVyuPqA19oxK-sqXEqP4">
 
 - 🔭 I’m currently working on **Data Science**
 
